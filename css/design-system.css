@@ -32,7 +32,7 @@
   /* COLORS
      Warm, neoclassical palette. Off-white like aged newsprint,
      near-black text, deep brick-red accent. */
-  --color-bg:           #f7f5ef;  /* page background — warm off-white */
+  --color-bg:           #fafafa;  /* page background — warm off-white */
   --color-surface:      #ffffff;  /* pure white (cards, inset areas)  */
   --color-text:         #1c1a17;  /* main text — warm near-black      */
   --color-muted:        #716b64;  /* secondary text, captions         */

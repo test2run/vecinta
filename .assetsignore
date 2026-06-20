@@ -1,0 +1,6 @@
+.git
+.git/**
+.claude
+.claude/**
+.gitignore
+wrangler.jsonc
